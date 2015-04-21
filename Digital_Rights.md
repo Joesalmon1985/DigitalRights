@@ -30,7 +30,8 @@ the public and private sectors. The Action Plan encourages the use of free and
 open source software, saving money where practical and economically viable.
 Agree! Agree. Could we add that, where possible, dovernment should look at CC
 or open source licensing on all materials too, or is that outside the scope of
-this poilcy? How about encouraging Government IT to also contribute back to
+this poilcy?  
+How about encouraging Government IT to also contribute back to
 any open source project they use?
 
 National Events should be accessible online
@@ -40,7 +41,7 @@ a mandate that such events be available via both broadcast and online
 distribution.Agree! Agree, Some examples of such events would be good here. Is
 there an existing list of such important event? Here’s ofcoms list of sport &
 other designated events.
-http://stakeholders.ofcom.org.uk/binaries/broadcast/other-codes/ofcom_code_on_sport.pdf
+http://stakeholders.ofcom.org.uk/binaries/broadcast/other-codes/ofcom_code_on_sport.pdf  
 What would count as a national event that would mean it should be included on
 the list?
 
@@ -80,7 +81,8 @@ balanced with the rights of society as a whole.
 We will ensuring that new copyrights are not created unless the new work
 represents a substantial change, we will remove the loophole in current
 copyright law that allows 'restarting the clock' by simply moving content to a
-new format or making an incremental change to it. We will legalise the use of
+new format or making an incremental change to it.  
+We will legalise the use of
 copyright works where no money changes hands, which will return to the people
 various rights including: A right to “format shift” (for example, buying a CD
 then copying it to a portable media player such as an MP3 player or phone); I
