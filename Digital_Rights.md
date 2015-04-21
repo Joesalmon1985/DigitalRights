@@ -1,6 +1,6 @@
 Intro
 Everybody should benefit from the digital revolution. At the moment the UK is
-behind the curve.  We need to invest in truly world class infrastructure and
+behind the curve. We need to invest in truly world class infrastructure and
 upskilling citizens to effectively utilise this.. To help facilitate an online
 world that all may enter without privilege or prejudice accorded by race,
 economic power, military force, or station of birth. We must recognise that
@@ -28,9 +28,9 @@ The government's existing but widely ignored Open Source Action Plan should be
 re-imagined and properly implemented across government, and will be promoted to
 the public and private sectors. The Action Plan encourages the use of free and
 open source software, saving money where practical and economically viable.
-Agree!  Agree.  Could we add that, where possible, dovernment should look at CC
+Agree! Agree. Could we add that, where possible, dovernment should look at CC
 or open source licensing on all materials too, or is that outside the scope of
-this poilcy?  How about encouraging Government IT to also contribute back to
+this poilcy? How about encouraging Government IT to also contribute back to
 any open source project they use?
 
 National Events should be accessible online
@@ -80,7 +80,7 @@ balanced with the rights of society as a whole.
 We will ensuring that new copyrights are not created unless the new work
 represents a substantial change, we will remove the loophole in current
 copyright law that allows 'restarting the clock' by simply moving content to a
-new format or making an incremental change to it.  We will legalise the use of
+new format or making an incremental change to it. We will legalise the use of
 copyright works where no money changes hands, which will return to the people
 various rights including: A right to “format shift” (for example, buying a CD
 then copying it to a portable media player such as an MP3 player or phone); I
@@ -113,13 +113,13 @@ limited access to the Internet and the benefits that access provides. Providing
 access where it is otherwise limited is a good initial step to reducing and
 eventually ending the digital divide.4g+/LTE should also be made available in
 all rural areas, this negates the need to dig up ground and lay cable/fiber
-optic.  - Currently, one of the major issues is that BT control a monopoly on
-wires where Virgin don’t exist.  As a result, many communities are simply told
-“No” even if they can raise the cash - we need to cover this.  I’m going to run
+optic. - Currently, one of the major issues is that BT control a monopoly on
+wires where Virgin don’t exist. As a result, many communities are simply told
+“No” even if they can raise the cash - we need to cover this. I’m going to run
 this issue past a couple of experts I know in the subject...Planning ahead,
 fibre/cable will be much less of an issue, in just a few years we will be able
 to have over the air networks which will rival current cable speeds (around
-152mb).   Not in rural areas.  I don’t even have a DAB signal where I
+152mb). Not in rural areas. I don’t even have a DAB signal where I
 live….though I agree will be less of an issue I think it needs to be a policy
 that the large network providers have to be mandated to provide coverage as
 part of any overall package they are given by a government. What are people’s
@@ -132,11 +132,11 @@ so WiFi is practically available everywhere for zero cost when you need it (yes
 it's piggy backing on people's WiFi but they can turn it off if they're
 bothered). Will this create issues with people using open wifi to access
 illegal porn sites etc? It also runs the risk of a user's home network being
-compromised .  I’m unsure on the wisdom of this - would it be better to provide
+compromised . I’m unsure on the wisdom of this - would it be better to provide
 incentives for people to open this rather than mandating it?
 
 Can we add a section about the digital skills needed to use broadband
-(declaration of interest, this is my area of work)?  I think without the skills
+(declaration of interest, this is my area of work)? I think without the skills
 to understand the importance, dangers, implications of online engagement, let
 alone the skills to utilise it much of this is for nothing.
 
