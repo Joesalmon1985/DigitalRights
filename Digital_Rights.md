@@ -1,3 +1,4 @@
+# Digital Rights
 ## Introduction
 Everybody should benefit from the digital revolution. At the moment the UK is
 behind the curve. We need to invest in truly world class infrastructure and
@@ -140,6 +141,7 @@ illegal porn sites _et cetera_? It also runs the risk of a user's home network b
 compromised . I’m unsure on the wisdom of this - would it be better to provide
 incentives for people to open this rather than mandating it?
 
+## Additional Sections
 Can we add a section about the digital skills needed to use broadband
 (declaration of interest, this is my area of work)? I think without the skills
 to understand the importance, dangers, implications of online engagement, let
