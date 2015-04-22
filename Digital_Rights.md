@@ -1,7 +1,7 @@
 Intro
 Everybody should benefit from the digital revolution. At the moment the UK is
 behind the curve. We need to invest in truly world class infrastructure and
-upskilling citizens to effectively utilise this.. To help facilitate an online
+upskilling citizens to effectively utilise this. To help facilitate an online
 world that all may enter without privilege or prejudice accorded by race,
 economic power, military force, or station of birth. We must recognise that
 anyone from any location can and should be able express their beliefs, no
@@ -15,11 +15,11 @@ possible and to improve competition we would aim to introduce a requirement
 that the providers of bundled services, software and hardware products price
 and offer each component individually as well as in a bundle. We will prevent
 through legislation locking of newly manufactured or resold electronic devices,
-whether the locking of software to hardware or hardware to a service.We should
+whether the locking of software to hardware or hardware to a service. We should
 also add something here about publicly funded schemes - if there are publically
 funded schemes to take laptops out, provide WiFi etc, they should use unbundled
 services where possible. I would think this needs to be fleshed out a bit, are
-you saying all mobile phones should be sold unlocked for example? also it is
+you saying all mobile phones should be sold unlocked, for example? Also it is
 sometimes a question of hardware/software compatibility which prevents these
 services being bundled together.
 
@@ -38,7 +38,7 @@ National Events should be accessible online
 The current list of important national events that cannot be exclusively
 broadcast by pay TV services must be maintained and expanded. We will introduce
 a mandate that such events be available via both broadcast and online
-distribution.Agree! Agree, Some examples of such events would be good here. Is
+distribution. Agree! Agree, Some examples of such events would be good here. Is
 there an existing list of such important event? Here’s ofcoms list of sport &
 other designated events.
 http://stakeholders.ofcom.org.uk/binaries/broadcast/other-codes/ofcom_code_on_sport.pdf  
@@ -69,7 +69,7 @@ products that can be remotely turned off by the manufacturer, products that
 'phone home' and would therefore stop working if the manufacturer went
 bankrupt, or products that are 'region coded'. We will require that any product
 sold in the UK that includes a DRM mechanism is stored in without DRM in escrow
-against a time where access to DRM versions is no longer possible.Agree!
+against a time where access to DRM versions is no longer possible. Agree!
 
 Reform Copyright laws
 A fair and balanced copyright regime that is suitable for the 21st century is
@@ -89,7 +89,7 @@ various rights including:
 + A right to “format shift” (for example, buying a CD
 then copying it to a portable media player such as an MP3 player or phone); I
 think generally people will buy less CDs but we are generally in a situation
-where anything we listen to on spotify for example is not ours, we are renting
+where anything we listen to on spotify, for example, is not ours; we are renting
 it nowadays.
 + A right to share files between friends and peers (which provides
 free advertising that is essential for less well-known artists); This is a
@@ -115,16 +115,16 @@ hospitals, as this also breaks up the monopoly of hospital comms suppliers
 charging patients for television At present a significant portion of us have
 limited access to the Internet and the benefits that access provides. Providing
 access where it is otherwise limited is a good initial step to reducing and
-eventually ending the digital divide.4g+/LTE should also be made available in
+eventually ending the digital divide. 4g+/LTE should also be made available in
 all rural areas, this negates the need to dig up ground and lay cable/fibre
 optic. - Currently, one of the major issues is that BT control a monopoly on
 wires where Virgin don’t exist. As a result, many communities are simply told
 “No” even if they can raise the cash - we need to cover this. I’m going to run
-this issue past a couple of experts I know in the subject...Planning ahead,
-fibre/cable will be much less of an issue, in just a few years we will be able
+this issue past a couple of experts I know in the subject... Planning ahead,
+fibre/cable will be much less of an issue; in just a few years we will be able
 to have over the air networks which will rival current cable speeds (around
 152mb). Not in rural areas. I don’t even have a DAB signal where I
-live….though I agree will be less of an issue I think it needs to be a policy
+live. Though I agree will be less of an issue I think it needs to be a policy
 that the large network providers have to be mandated to provide coverage as
 part of any overall package they are given by a government. What are people’s
 thoughts on the current scheme to promote rural broadband? I lean towards a
