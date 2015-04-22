@@ -84,12 +84,14 @@ copyright law that allows 'restarting the clock' by simply moving content to a
 new format or making an incremental change to it.  
 We will legalise the use of
 copyright works where no money changes hands, which will return to the people
-various rights including: A right to “format shift” (for example, buying a CD
+various rights including:
+
++ A right to “format shift” (for example, buying a CD
 then copying it to a portable media player such as an MP3 player or phone); I
 think generally people will buy less CDs but we are generally in a situation
 where anything we listen to on spotify for example is not ours, we are renting
 it nowadays.
-A right to share files between friends and peers (which provides
++ A right to share files between friends and peers (which provides
 free advertising that is essential for less well-known artists); This is a
 complex situation and a case could be also made for less well-known artists not
 making any money at all through file sharing. what we need is a legal files
