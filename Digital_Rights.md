@@ -28,9 +28,9 @@ The government's existing but widely ignored Open Source Action Plan should be
 re-imagined and properly implemented across government, and will be promoted to
 the public and private sectors. The Action Plan encourages the use of free and
 open source software, saving money where practical and economically viable.
-Agree! Agree. Could we add that, where possible, dovernment should look at CC
+Agree! Agree. Could we add that, where possible, government should look at CC
 or open source licensing on all materials too, or is that outside the scope of
-this poilcy?  
+this policy?  
 How about encouraging Government IT to also contribute back to
 any open source project they use?
 
@@ -112,11 +112,11 @@ Provide Public Wifi
 We will promote the provision of free public WiFi as well as the provision of
 Internet access in community centres and libraries by local authorities. Also
 hospitals, as this also breaks up the monopoly of hospital comms suppliers
-chanrging patients for television At present a significant portion of us have
+charging patients for television At present a significant portion of us have
 limited access to the Internet and the benefits that access provides. Providing
 access where it is otherwise limited is a good initial step to reducing and
 eventually ending the digital divide.4g+/LTE should also be made available in
-all rural areas, this negates the need to dig up ground and lay cable/fiber
+all rural areas, this negates the need to dig up ground and lay cable/fibre
 optic. - Currently, one of the major issues is that BT control a monopoly on
 wires where Virgin don’t exist. As a result, many communities are simply told
 “No” even if they can raise the cash - we need to cover this. I’m going to run
@@ -144,7 +144,7 @@ Can we add a section about the digital skills needed to use broadband
 to understand the importance, dangers, implications of online engagement, let
 alone the skills to utilise it much of this is for nothing.
 
-Digitial Privacy - GCHQ, Surveillence and “anonymised” data.
+Digital Privacy - GCHQ, Surveillance and “anonymised” data.
 
 We will promote the extension of the privacy you would expect in the real world
 into the digital.
