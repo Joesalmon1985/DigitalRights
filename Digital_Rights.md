@@ -130,27 +130,35 @@ limited access to the Internet and the benefits that access provides. Providing
 access where it is otherwise limited is a good initial step to reducing and
 eventually ending the digital divide. 4g+/LTE should also be made available in
 all rural areas, this negates the need to dig up ground and lay cable/fibre
-optic. - Currently, one of the major issues is that BT control a monopoly on
+optic.  
+[[anon
+Currently, one of the major issues is that BT control a monopoly on
 wires where Virgin don’t exist. As a result, many communities are simply told
 “No” even if they can raise the cash - we need to cover this. I’m going to run
 this issue past a couple of experts I know in the subject... Planning ahead,
 fibre/cable will be much less of an issue; in just a few years we will be able
 to have over the air networks which will rival current cable speeds (around
-152mb). Not in rural areas. I don’t even have a DAB signal where I
+152mb).]]  
+[[anon
+Not in rural areas. I don’t even have a DAB signal where I
 live. Though I agree will be less of an issue I think it needs to be a policy
 that the large network providers have to be mandated to provide coverage as
-part of any overall package they are given by a government. What are people’s
+part of any overall package they are given by a government.]]  
+[[anon
+What are people’s
 thoughts on the current scheme to promote rural broadband? I lean towards a
 nationalisation of the copper / fibre and some sort of guaranteed level of
-service/speed rather than have BT Openreach in charge
+service/speed rather than have BT Openreach in charge.]]
 
 All UK routers must ship with guest mode enabled with SSID as openwireless.org
 so WiFi is practically available everywhere for zero cost when you need it (yes
 it's piggy backing on people's WiFi but they can turn it off if they're
-bothered). Will this create issues with people using open wifi to access
+bothered).  
+[[anon
+Will this create issues with people using open wifi to access
 illegal porn sites _et cetera_? It also runs the risk of a user's home network being
 compromised . I’m unsure on the wisdom of this - would it be better to provide
-incentives for people to open this rather than mandating it?
+incentives for people to open this rather than mandating it?]]
 
 ## Additional Sections
 Can we add a section about the digital skills needed to use broadband
