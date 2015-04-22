@@ -1,4 +1,4 @@
-Intro
+## Introduction
 Everybody should benefit from the digital revolution. At the moment the UK is
 behind the curve. We need to invest in truly world class infrastructure and
 upskilling citizens to effectively utilise this. To help facilitate an online
@@ -8,7 +8,7 @@ anyone from any location can and should be able express their beliefs, no
 matter how singular, without fear of being coerced into silence or conformity
 online.
 
-No bundling of services
+## No bundling of services
 The bundling of services with hardware has created artificial barriers to entry
 in a number of markets in the last decade. To ensure that innovation is
 possible and to improve competition we would aim to introduce a requirement
@@ -23,7 +23,7 @@ you saying all mobile phones should be sold unlocked, for example? Also it is
 sometimes a question of hardware/software compatibility which prevents these
 services being bundled together.
 
-Re-imagine the Open Source Action Plan
+## Re-imagine the Open Source Action Plan
 The government's existing but widely ignored Open Source Action Plan should be
 re-imagined and properly implemented across government, and will be promoted to
 the public and private sectors. The Action Plan encourages the use of free and
@@ -34,7 +34,7 @@ this policy?
 How about encouraging Government IT to also contribute back to
 any open source project they use?
 
-National Events should be accessible online
+## National Events should be accessible online
 The current list of important national events that cannot be exclusively
 broadcast by pay TV services must be maintained and expanded. We will introduce
 a mandate that such events be available via both broadcast and online
@@ -45,7 +45,7 @@ http://stakeholders.ofcom.org.uk/binaries/broadcast/other-codes/ofcom_code_on_sp
 What would count as a national event that would mean it should be included on
 the list?
 
-Open Government Licence
+## Open Government Licence
 The Open Government Licence will be expanded to all government funded data and
 material. All maps, statistics and other data that have been created or
 collated by the government will be released in open formats, giving the public
@@ -54,7 +54,7 @@ for cases that have national security or privacy concerns. Agree! Agree.
 Possible stipulation that anything that isn’t released needs a detail reason why
 not, rather than just a blanket national security get out?
 
-Repeal Copyright infringement section of Digital Economy Act
+## Repeal Copyright infringement section of Digital Economy Act
 We will repeal sections 3 to 18 of the Digital Economy Act 2010 and strengthen
 the current protections against excessive or frivolous lawsuits for copyright
 infringement.
@@ -62,7 +62,7 @@ infringement.
 Link to digital economy act
 http://www.legislation.gov.uk/ukpga/2010/24/contents
 
-Limit Digital Rights Management
+## Limit Digital Rights Management
 There is an urgent need to raise public awareness about Digital Rights
 Management (DRM) technology. We believe the public needs to be protected from
 products that can be remotely turned off by the manufacturer, products that
@@ -71,7 +71,7 @@ bankrupt, or products that are 'region coded'. We will require that any product
 sold in the UK that includes a DRM mechanism is stored in without DRM in escrow
 against a time where access to DRM versions is no longer possible. Agree!
 
-Reform Copyright laws
+## Reform Copyright laws
 A fair and balanced copyright regime that is suitable for the 21st century is
 an absolute necessity for the UK to remain competitive in a global economy that
 is built upon ideas and innovation. Copyright should give artists and
@@ -108,7 +108,7 @@ in new content. Agree! Agree that copyright duration should be shorter. Surely
 we could mention explicit exceptions for mashups / satire / fair use in
 repurposing existing media into a new piece of art or social commentary?
 
-Provide Public Wifi
+## Provide Public Wifi
 We will promote the provision of free public WiFi as well as the provision of
 Internet access in community centres and libraries by local authorities. Also
 hospitals, as this also breaks up the monopoly of hospital communications
