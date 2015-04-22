@@ -17,7 +17,7 @@ and offer each component individually as well as in a bundle. We will prevent
 through legislation locking of newly manufactured or resold electronic devices,
 whether the locking of software to hardware or hardware to a service. We should
 also add something here about publicly funded schemes - if there are publically
-funded schemes to take laptops out, provide WiFi etc, they should use unbundled
+funded schemes to take laptops out, provide WiFi _et cetera_, they should use unbundled
 services where possible. I would think this needs to be fleshed out a bit, are
 you saying all mobile phones should be sold unlocked, for example? Also it is
 sometimes a question of hardware/software compatibility which prevents these
@@ -135,7 +135,7 @@ All UK routers must ship with guest mode enabled with SSID as openwireless.org
 so WiFi is practically available everywhere for zero cost when you need it (yes
 it's piggy backing on people's WiFi but they can turn it off if they're
 bothered). Will this create issues with people using open wifi to access
-illegal porn sites etc? It also runs the risk of a user's home network being
+illegal porn sites _et cetera_? It also runs the risk of a user's home network being
 compromised . I’m unsure on the wisdom of this - would it be better to provide
 incentives for people to open this rather than mandating it?
 
