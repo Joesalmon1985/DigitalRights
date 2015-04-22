@@ -51,7 +51,7 @@ material. All maps, statistics and other data that have been created or
 collated by the government will be released in open formats, giving the public
 access to research for which they have already paid. An exception will be made
 for cases that have national security or privacy concerns. Agree! Agree.
-Possible stipulation that anything that isn’t realise needs a detail reason why
+Possible stipulation that anything that isn’t released needs a detail reason why
 not, rather than just a blanket national security get out?
 
 Repeal Copyright infringement section of Digital Economy Act
@@ -78,7 +78,7 @@ is built upon ideas and innovation. Copyright should give artists and
 innovators the chance to make money from their work; however, that needs to be
 balanced with the rights of society as a whole.
 
-We will ensuring that new copyrights are not created unless the new work
+We will ensure that new copyrights are not created unless the new work
 represents a substantial change, we will remove the loophole in current
 copyright law that allows 'restarting the clock' by simply moving content to a
 new format or making an incremental change to it.  
@@ -104,7 +104,7 @@ duration of 14 years, reflecting the much greater ease with which works can now
 be made and distributed. Shorter copyright will encourage artists to keep on
 creating new work; will allow new art forms, such as mashupsmash-ups; and will
 stop big businesses from relying on large back-catalogues rather than investing
-in new content. Agree! Agree that copyright duration should be shorten. Surely
+in new content. Agree! Agree that copyright duration should be shorter. Surely
 we could mention explicit exceptions for mashups / satire / fair use in
 repurposing existing media into a new piece of art or social commentary?
 
