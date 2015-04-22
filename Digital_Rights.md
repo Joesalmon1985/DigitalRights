@@ -44,12 +44,15 @@ any open source project they use?]]
 The current list of important national events that cannot be exclusively
 broadcast by pay TV services must be maintained and expanded. We will introduce
 a mandate that such events be available via both broadcast and online
-distribution. Agree! Agree, Some examples of such events would be good here. Is
+distribution.  
+[[anon
+Agree! Agree, Some examples of such events would be good here. Is
 there an existing list of such important event? Here’s ofcoms list of sport &
 other designated events.
-http://stakeholders.ofcom.org.uk/binaries/broadcast/other-codes/ofcom_code_on_sport.pdf  
+http://stakeholders.ofcom.org.uk/binaries/broadcast/other-codes/ofcom_code_on_sport.pdf]]  
+[[anon
 What would count as a national event that would mean it should be included on
-the list?
+the list?]]
 
 ## Open Government Licence
 The Open Government Licence will be expanded to all government funded data and
