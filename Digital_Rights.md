@@ -16,13 +16,16 @@ possible and to improve competition we would aim to introduce a requirement
 that the providers of bundled services, software and hardware products price
 and offer each component individually as well as in a bundle. We will prevent
 through legislation locking of newly manufactured or resold electronic devices,
-whether the locking of software to hardware or hardware to a service. We should
-also add something here about publicly funded schemes - if there are publically
-funded schemes to take laptops out, provide WiFi _et cetera_, they should use unbundled
-services where possible. I would think this needs to be fleshed out a bit, are
+whether the locking of software to hardware or hardware to a service.  
+[[anon
+We should also add something here about publicly funded schemes - if
+there are publically funded schemes to take laptops out, provide WiFi
+_et cetera_, they should use unbundled services where possible.]]  
+[[anon
+I would think this needs to be fleshed out a bit, are
 you saying all mobile phones should be sold unlocked, for example? Also it is
 sometimes a question of hardware/software compatibility which prevents these
-services being bundled together.
+services being bundled together.]]
 
 ## Re-imagine the Open Source Action Plan
 The government's existing but widely ignored Open Source Action Plan should be
