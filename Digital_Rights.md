@@ -114,9 +114,11 @@ duration of 14 years, reflecting the much greater ease with which works can now
 be made and distributed. Shorter copyright will encourage artists to keep on
 creating new work; will allow new art forms, such as mashupsmash-ups; and will
 stop big businesses from relying on large back-catalogues rather than investing
-in new content. Agree! Agree that copyright duration should be shorter. Surely
+in new content.  
+[[anon
+Agree! Agree that copyright duration should be shorter. Surely
 we could mention explicit exceptions for mashups / satire / fair use in
-repurposing existing media into a new piece of art or social commentary?
+repurposing existing media into a new piece of art or social commentary?]]
 
 ## Provide Public Wifi
 We will promote the provision of free public WiFi as well as the provision of
