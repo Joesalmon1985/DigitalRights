@@ -31,12 +31,14 @@ services being bundled together.]]
 The government's existing but widely ignored Open Source Action Plan should be
 re-imagined and properly implemented across government, and will be promoted to
 the public and private sectors. The Action Plan encourages the use of free and
-open source software, saving money where practical and economically viable.
+open source software, saving money where practical and economically viable.  
+[[anon
 Agree! Agree. Could we add that, where possible, government should look at CC
 or open source licensing on all materials too, or is that outside the scope of
-this policy?  
+this policy?]]  
+[[anon
 How about encouraging Government IT to also contribute back to
-any open source project they use?
+any open source project they use?]]
 
 ## National Events should be accessible online
 The current list of important national events that cannot be exclusively
